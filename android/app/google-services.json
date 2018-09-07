@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1048812239239",
+    "firebase_url": "https://reactnativepracticeproject.firebaseio.com",
+    "project_id": "reactnativepracticeproject",
+    "storage_bucket": "reactnativepracticeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048812239239:android:c16a88a8707c225c",
+        "android_client_info": {
+          "package_name": "com.reactnativepracticeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048812239239-ab5vpo5t1bap7lar5kd7cfjs9qrost8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativepracticeproject",
+            "certificate_hash": "2f948c4e8623158618d18b65cdf3814d8950a56d"
+          }
+        },
+        {
+          "client_id": "1048812239239-am9mne6oh6kberdga7qftinsacd7n3hf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnativepracticeproject",
+            "certificate_hash": "8959a1f44d8b0fda2895b199ac92c2f431415669"
+          }
+        },
+        {
+          "client_id": "1048812239239-9p5bue8lbvmqmg7irmm882888tfie5fi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUQXHyBmrGw7uWi0eVXN1XukXMGA6A0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048812239239-9p5bue8lbvmqmg7irmm882888tfie5fi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
